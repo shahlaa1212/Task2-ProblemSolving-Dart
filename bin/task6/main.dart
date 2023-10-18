@@ -1,5 +1,10 @@
-//you have a "string containing a phrase like" "programming is fun".
-// create a set containing the repeated characters in the phrade and peint them
+//you have a string containing a phrase like "programming is fun".
+// create a set containing the repeated characters in the phrase and print them
 main(){
-  print("hello");
+  String phrase = "programming is fun";
+  Set<String> mySetOfPhrase = {"proogrammming iss ffun"};
+
+  print('$phrase $mySetOfPhrase');
+
+
 }

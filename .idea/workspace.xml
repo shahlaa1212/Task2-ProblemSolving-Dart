@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fc0d00b-202b-4e6d-b892-403c02c95dba" name="Changes" comment="" />
+    <list default="true" id="0fc0d00b-202b-4e6d-b892-403c02c95dba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/task1/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/task1/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/task2/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/task2/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/task3/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/task3/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/task4/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/task4/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/task5/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/task5/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/task6/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/task6/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/task7/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/task7/main.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +23,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2WdpwbOoLTLc6ZavwxANizJky87" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,9 +42,29 @@
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Dart Command Line App.main.dart">
+  <component name="RunManager" selected="Dart Command Line App.main.dart (3)">
+    <configuration name="main.dart (1)" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/task2/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart (3)" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/task5/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart (4)" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/task6/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart (5)" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/task3/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/task1/main.dart" />
+      <option name="filePath" value="$PROJECT_DIR$/bin/task4/main.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -47,7 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.main.dart (3)" />
+        <item itemvalue="Dart Command Line App.main.dart (4)" />
         <item itemvalue="Dart Command Line App.main.dart" />
+        <item itemvalue="Dart Command Line App.main.dart (1)" />
+        <item itemvalue="Dart Command Line App.main.dart (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -61,5 +98,28 @@
       <updated>1697072553832</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
