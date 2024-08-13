@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="dart">
+  <img src="https://img.shields.io/badge/Android-34A853.svg?style=for-the-badge&logo=Android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJIDEA">
+  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
 # 💡 Tasks Dart 🎯
 This repository contains problem solving using dart.
 
